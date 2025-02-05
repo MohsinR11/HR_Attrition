@@ -25,5 +25,5 @@ This Tableau dashboard provides insights into **employee attrition trends**, hel
 
 ## Author
 **Mohsin Raza**  
-[LinkedIn](https://www.linkedin.com/in/mohsinraza)  
-[GitHub](https://github.com/mohsinraza)
+[LinkedIn](www.linkedin.com/in/mohsin--raza)  
+[GitHub](https://github.com/MohsinR11)
