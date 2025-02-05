@@ -15,9 +15,6 @@ This Tableau dashboard provides insights into **employee attrition trends**, hel
 - **Tableau**: Used for data visualization.
 - **Excel/CSV Data**: Data source used for HR analysis.
 
-## Preview
-![HR Attrition Dashboard](HR Attrition 1.jpg)
-
 ## How to Use
 1. Open the Tableau file (`.twbx` or `.twb`).
 2. Use filters to explore attrition trends by department, job role, and demographics.
@@ -25,5 +22,5 @@ This Tableau dashboard provides insights into **employee attrition trends**, hel
 
 ## Author
 **Mohsin Raza**  
-[LinkedIn](www.linkedin.com/in/mohsin--raza)  
-[GitHub](https://github.com/MohsinR11)
+[LinkedIn] (www.linkedin.com/in/mohsin--raza)  
+[GitHub] (https://github.com/MohsinR11)
